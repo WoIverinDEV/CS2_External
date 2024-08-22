@@ -8,6 +8,12 @@ EN -> [SilentAimbot - en](https://github.com/TKazer/CS2-External-Silent-AimBot)
 
 CN -> [SilentAimbot - cn](https://bbs.kanxue.com/thread-282616.htm)
 
+## Compilation Instructions
+1. Open CS2_External.sln
+2. Ensure solution is set to x64 bit at the top
+3. Either hit CTRL + B or go to the Build tab in the top and select Build Solution
+4. Go to the x64 folder, and run connector
+
 ## ImGui library -> [OS-ImGui](https://github.com/TKazer/OS-ImGui)
 
 ## Derivative projects
