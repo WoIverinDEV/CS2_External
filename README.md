@@ -1,6 +1,5 @@
 # CS2_External
 
-Shoutout to appalla
 CS2 external cheat.
 
 
